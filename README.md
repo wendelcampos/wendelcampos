@@ -11,6 +11,8 @@
   <img align="center" alt="Wendel-CSS3" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
   <img align="center" alt="Wendel-Python" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
   <img align="center" alt="Wendel-Django" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/django.svg">
+  <img align="center" alt="Wendel-Angular" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/angular.svg">
+  <img align="center" alt="Wendel-Bootstrap" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="sabre" width="180" src="https://github.com/wendelcampos/wendelcampos/blob/master/img/sabre.gif">
 </div>
