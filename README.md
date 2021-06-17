@@ -16,7 +16,7 @@
   <img align="center" alt="Wendel-Cisco" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
   <img align="center" alt="Wendel-Donet" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dotnet.svg">
   <img align="center" alt="Wendel-PostgreeSQL" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
-  <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg">
+  <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg"><hr>
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Sql" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
   <img align="right" alt="sabre" width="180" src="https://github.com/wendelcampos/wendelcampos/blob/master/img/sabre.gif">
