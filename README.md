@@ -33,6 +33,9 @@
   <a href="https://www.linkedin.com/in/wendel-campos-10a3a6207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/wendelcampos/wendelcampos/blob/master/output/github-contribution-grid-snake.svg)
-
 </div>
+ 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/teteusAraujo/count.svg" />
+ </p>
 
