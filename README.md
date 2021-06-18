@@ -35,6 +35,7 @@
   ![Snake animation](https://github.com/wendelcampos/wendelcampos/blob/master/output/github-contribution-grid-snake.svg)
 </div>
  
+ ## Total de visitas !!!
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/wendelcampos/count.svg" />
  </p>
