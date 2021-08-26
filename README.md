@@ -11,12 +11,9 @@
   <img align="center" alt="Wendel-HTML5" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/html5.svg">
   <img align="center" alt="Wendel-CSS3" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
   <img align="center" alt="Wendel-Python" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
-  <img align="center" alt="Wendel-Django" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/django.svg">
-  <img align="center" alt="Wendel-Angular" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/angular.svg">
-  <img align="center" alt="Wendel-Bootstrap" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
+  <img align="center" alt="Wendel-Django" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
   <img align="center" alt="Wendel-Cisco" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
-  <img align="center" alt="Wendel-Donet" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dotnet.svg">
-  <img align="center" alt="Wendel-PostgreeSQL" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
+  <img align="center" alt="Wendel-Donet" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
   <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg">
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Sql" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
@@ -27,17 +24,17 @@
 </div>
 
 
+
   ##
 
 <div>  
   <a href = "mailto:waguiatrader@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-campos-10a3a6207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   ![Snake animation](https://github.com/wendelcampos/wendelcampos/blob/master/output/github-contribution-grid-snake.svg)
 </div>
- 
+
  ## Total de visitas !!!
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/wendelcampos/count.svg" />
  </p>
-
