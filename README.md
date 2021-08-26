@@ -12,7 +12,7 @@
   <img align="center" alt="Wendel-CSS3" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
   <img align="center" alt="Wendel-Python" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
   <img align="center" alt="Wendel-Django" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
-  <img align="center" alt="Wendel-Cisco" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
+  <img align="center" alt="Wendel-Cisco" height="20" width="30" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
   <img align="center" alt="Wendel-Donet" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
   <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg">
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
