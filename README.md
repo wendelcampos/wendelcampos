@@ -25,6 +25,7 @@
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Docker" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
 </div>
+<hr/>
 
 <div style="margin-top: 10px;">  
   <a href = "mailto:waguiatrader@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
