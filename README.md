@@ -4,7 +4,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wendelcampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-node" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/node.svg">
   <img align="center" alt="Wendel-typescript" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/typescript.svg">
@@ -28,7 +28,7 @@
   <img align="center" alt="Wendel-Docker" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
 </div>
 
-<div>  
+<div style="margin-top: 10px;">  
   <a href = "mailto:waguiatrader@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-c-10a3a6207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
