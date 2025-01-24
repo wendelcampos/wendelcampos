@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/wendelcampos">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wendelcampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="165em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block; margin-bottom: 10px;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
