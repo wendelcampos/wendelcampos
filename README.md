@@ -4,7 +4,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=wendelcampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-<div style="display: inline_block;"><br>
+<div style="display: inline_block; margin-bottom: 10px;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-node" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/node.svg">
   <img align="center" alt="Wendel-typescript" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/typescript.svg">
@@ -22,9 +22,7 @@
   <img align="center" alt="Wendel-bootstrap" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
   <img align="center" alt="Wendel-Cisco" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
   <img align="center" alt="Wendel-postgress" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
-  <!-- <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg"> -->
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
-
   <img align="center" alt="Wendel-Docker" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
 </div>
 
