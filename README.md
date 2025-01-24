@@ -11,6 +11,7 @@
   <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/nextjs.svg">
   <img align="center" alt="Wendel-ai" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/ai.svg">
   <img align="center" alt="Wendel-mongodb" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/mongodb.svg">
+  <img align="center" alt="Wendel-oracle" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/oracle.svg">
   <img align="center" alt="Wendel-Linux" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
   <img align="center" alt="Wendel-Windows" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/windows.svg">
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
