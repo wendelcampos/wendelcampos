@@ -9,6 +9,7 @@
 <div style="display: inline_block; margin-bottom: 10px;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-node" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/node.svg">
+  <img align="center" alt="Wendel-Js" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
   <img align="center" alt="Wendel-typescript" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/typescript.svg">
   <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/nextjs.svg">
   <img align="center" alt="Wendel-ai" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/ai.svg">
@@ -18,7 +19,6 @@
   <img align="center" alt="Wendel-Sql" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
   <img align="center" alt="Wendel-Linux" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
   <img align="center" alt="Wendel-Windows" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/windows.svg">
-  <img align="center" alt="Wendel-Js" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
   <img align="center" alt="Wendel-HTML5" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/html5.svg">
   <img align="center" alt="Wendel-CSS3" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
   <img align="center" alt="Wendel-Python" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
