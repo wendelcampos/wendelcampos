@@ -6,6 +6,9 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
   </div>
 </div>
+
+<hr/>
+
 <div style="display: inline_block; margin-bottom: 10px;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-node" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/node.svg">
@@ -29,6 +32,7 @@
   <img align="center" alt="Wendel-Dell" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Docker" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
 </div>
+
 <hr/>
 
 <div style="margin-top: 10px;">  
