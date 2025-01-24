@@ -13,12 +13,12 @@
   <img align="center" alt="Wendel-mongodb" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/mongodb.svg">
   <img align="center" alt="Wendel-oracle" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/oracle.svg">
   <img align="center" alt="Wendel-Sql" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
-  <img align="center" alt="Wendel-Linux" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
+  <img align="center" alt="Wendel-Linux" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
   <img align="center" alt="Wendel-Windows" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/windows.svg">
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
-  <img align="center" alt="Wendel-HTML5" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/html5.svg">
-  <img align="center" alt="Wendel-CSS3" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
-  <img align="center" alt="Wendel-Python" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
+  <img align="center" alt="Wendel-HTML5" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/html5.svg">
+  <img align="center" alt="Wendel-CSS3" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
+  <img align="center" alt="Wendel-Python" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
   <img align="center" alt="Wendel-bootstrap" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
   <img align="center" alt="Wendel-Cisco" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
   <img align="center" alt="Wendel-postgress" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
