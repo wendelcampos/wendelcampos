@@ -9,7 +9,7 @@
 
 <hr/>
 
-<div style="display: inline_block; margin-bottom: 10px;"><br>
+<div style="display: inline_block;"><br>
   <img align="center" alt="Wendel-react" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-node" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/node.svg">
   <img align="center" alt="Wendel-Js" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
@@ -35,7 +35,7 @@
 
 <hr/>
 
-<div style="margin-top: 10px;">  
+<div>  
   <a href = "mailto:waguiatrader@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-c-10a3a6207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
