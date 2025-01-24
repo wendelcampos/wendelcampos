@@ -5,6 +5,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelcampos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Wendel-Docker" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
   <img align="center" alt="Wendel-Linux" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
   <img align="center" alt="Wendel-Windows" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/windows.svg">
   <img align="center" alt="Wendel-Js" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
@@ -12,13 +13,12 @@
   <img align="center" alt="Wendel-CSS3" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/css3.svg">
   <img align="center" alt="Wendel-Python" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/python.svg">
   <img align="center" alt="Wendel-Django" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/bootstrap.svg">
-  <img align="center" alt="Wendel-Cisco" height="20" width="30" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
+  <img align="center" alt="Wendel-Cisco" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/cisco.svg">
   <img align="center" alt="Wendel-Donet" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/postgresql.svg">
   <img align="center" alt="Wendel-Csharp" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/csharp.svg">
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Sql" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
   <img align="center" alt="Wendel-Docker" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
-  <img align="center" alt="Wendel-Docker" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
 </div>
 
 <div>  
