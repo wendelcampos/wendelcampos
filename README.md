@@ -18,12 +18,8 @@
   <img align="center" alt="Wendel-Dell" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/dell.svg">
   <img align="center" alt="Wendel-Sql" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
   <img align="center" alt="Wendel-Docker" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/docker.svg">
-  <!-- <img align="right" alt="sabre" width="180" src="https://github.com/wendelcampos/wendelcampos/blob/master/img/sabre.gif"> -->
+  <img align="center" alt="Wendel-Docker" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/react.svg">
 </div>
-
-
-
-  ##
 
 <div>  
   <a href = "mailto:waguiatrader@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
