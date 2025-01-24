@@ -12,11 +12,11 @@
   <img align="center" alt="Wendel-Js" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/javascript.svg">
   <img align="center" alt="Wendel-typescript" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/typescript.svg">
   <img align="center" alt="Wendel-nextjs" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/nextjs.svg">
-  <img align="center" alt="Wendel-nestjs" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/nestjs.svg">
   <img align="center" alt="Wendel-ai" height="50" width="60" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/ai.svg">
   <img align="center" alt="Wendel-mongodb" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/mongodb.svg">
   <img align="center" alt="Wendel-oracle" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/oracle.svg">
   <img align="center" alt="Wendel-aws" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/aws.svg">
+  <img align="center" alt="Wendel-aws" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/google.svg">
   <img align="center" alt="Wendel-Sql" height="60" width="70" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/sql.svg">
   <img align="center" alt="Wendel-Linux" height="40" width="50" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/linux.svg">
   <img align="center" alt="Wendel-Windows" height="30" width="40" src="https://github.com/wendelcampos/wendelcampos/blob/master/icons/windows.svg">
