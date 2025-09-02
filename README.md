@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Wendel Campos
+# 👋 Olá! Eu sou Wendel Campos Aguiar
 
 ## 🚀 Desenvolvedor Full Stack & DevOps
 
